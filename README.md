@@ -1,4 +1,4 @@
-# LakeWaterWidgetApp-CurrentKeepers
+# LakeWaterWidgetApp by CurrentKeepers
 ## USACE Tulsa District Water Resource Management App
 
 ## Overview
