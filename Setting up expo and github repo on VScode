@@ -1,0 +1,6 @@
+1. Open VSCode
+2. Clone the GitHub Repo in terminal  using “git clone <URL>”
+3. Run the command “ brew update && brew install watchman”, since I already created the directory and files and committed to the repo, you can go to step4.
+************** Without using EAS *********
+4.  Next “npx expo install expo-dev-client” , make sure you are in the directory called “WaterLevel”, if not navigate to that directory.
+5. Next “npx expo run:ios”, if it didn’t display the IOS simulator then, Make sure to download the IOS new version on Xcode
