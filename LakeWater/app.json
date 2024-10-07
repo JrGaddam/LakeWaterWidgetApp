@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "WaterLevel",
-    "slug": "WaterLevel",
+    "name": "LakeWater",
+    "slug": "LakeWater",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -14,7 +14,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "ios.jrg02.waterlevel"
+      "bundleIdentifier": "ios.expo.water"
     },
     "android": {
       "adaptiveIcon": {
@@ -32,11 +32,6 @@
     ],
     "experiments": {
       "typedRoutes": true
-    },
-    "extra": {
-      "eas": {
-        "projectId": "c95ac9d4-3834-41be-9c92-05608fc7e404"
-      }
     }
   }
 }
